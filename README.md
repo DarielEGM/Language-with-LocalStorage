@@ -1,6 +1,6 @@
 # Language-with-LocalStorage ![cloud-storage](https://github.com/DarielEGM/Language-with-LocalStorage/assets/123778387/9e26fd74-ab89-4334-be3d-f87602b49067)
 
-This project was built with JavaScript, HTML and CSS.
+This project was built with JavaScript, HTML, and CSS.
 
 The purpose of the application is to select the language in which you want to see the page (English or Spanish) and have it stored in the local storage of the browser.
 
